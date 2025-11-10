@@ -6,12 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="a108d0dd-9d57-4f41-b680-0e2df38cb8f8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Darius.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Darius.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Average.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Average.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -63,7 +70,8 @@
       <updated>1762658185887</updated>
       <workItem from="1762658187236" duration="3158000" />
       <workItem from="1762689235429" duration="8696000" />
-      <workItem from="1762735574427" duration="892000" />
+      <workItem from="1762735574427" duration="8699000" />
+      <workItem from="1762778214943" duration="59000" />
     </task>
     <servers />
   </component>
